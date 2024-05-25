@@ -1,0 +1,15 @@
+#body {
+    background-image: url("https://i.pinimg.com/736x/3c/af/71/3caf7150c01d66ad9a213ddf67ff8770.jpg");
+    background-size: cover;
+}
+
+.text {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#footer {
+    position: fixed;
+    bottom: 0;
+    margin-bottom: 0px;
+    width: 100%;
+}
